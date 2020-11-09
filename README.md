@@ -1,4 +1,3 @@
 # Группа Select на JavaScript
 
-![Image alt](https://github.com/EvgeniyBudaev/js-group-selects/raw/master/readme.jpg)
-
+![Пример](https://github.com/EvgeniyBudaev/js-group-selects/blob/main/readme.jpg)
